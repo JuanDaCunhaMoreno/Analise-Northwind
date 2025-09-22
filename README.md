@@ -54,6 +54,5 @@ O projeto foi estruturado em três fases principais, simulando um ambiente de tr
 6.  Abra o arquivo `.pbix` do Power BI para explorar o dashboard final.
 
 ---
-## Contato
-
-  linkedin - https://www.linkedin.com/in/juan-da-cunha-moreno-29752a222
+## 📬 Contato
+  🔗 linkedin - https://www.linkedin.com/in/juan-da-cunha-moreno-29752a222
