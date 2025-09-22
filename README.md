@@ -1,4 +1,4 @@
-# 📊 Projeto de Análise de [TEMA DO PROJETO] com Python, SQL e Power BI
+# 📊 Projeto de Análise com Python, SQL e Power BI
 
 ## 📄 Descrição do Projeto
 
