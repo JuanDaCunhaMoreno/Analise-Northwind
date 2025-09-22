@@ -52,3 +52,8 @@ O projeto foi estruturado em três fases principais, simulando um ambiente de tr
 4.  Execute o script `preparacao_dados.py` para criar o banco de dados SQLite.
 5.  Execute o script `analise_sql.py` para gerar os CSVs de análise.
 6.  Abra o arquivo `.pbix` do Power BI para explorar o dashboard final.
+
+---
+
+##Contato
+linkedin - https://www.linkedin.com/in/juan-da-cunha-moreno-29752a222
